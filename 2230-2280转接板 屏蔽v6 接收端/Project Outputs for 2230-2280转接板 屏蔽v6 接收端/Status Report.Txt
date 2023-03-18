@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [2230-2280转接板 屏蔽v6 接收端.PrjPcb]
+   Generated File[Fabrication Testpoint Report for 接收端V6.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:39:33 On 2022/6/9
