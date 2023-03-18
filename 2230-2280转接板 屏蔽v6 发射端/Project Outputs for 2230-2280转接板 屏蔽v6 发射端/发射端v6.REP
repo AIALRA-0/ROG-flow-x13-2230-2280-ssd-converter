@@ -1,0 +1,209 @@
+*************************************************************
+FileName = ·¢Éä¶Ëv6.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : ·¢Éä¶Ëv6.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ·¢Éä¶Ëv6.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ·¢Éä¶Ëv6.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ·¢Éä¶Ëv6.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ·¢Éä¶Ëv6.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ·¢Éä¶Ëv6.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ·¢Éä¶Ëv6.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ·¢Éä¶Ëv6.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ·¢Éä¶Ëv6.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ·¢Éä¶Ëv6.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ·¢Éä¶Ëv6.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ·¢Éä¶Ëv6.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ·¢Éä¶Ëv6.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ·¢Éä¶Ëv6.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D28
+*************************************************************
+
