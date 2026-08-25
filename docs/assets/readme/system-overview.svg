@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">ROG Flow X13 2230 to 2280 SSD dual-board adapter</title>
+  <desc id="desc">A two-board adapter connects the host 2230 M.2 slot to a full-size 2280 NVMe SSD through two flexible cables</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b17"/>
+      <stop offset="0.55" stop-color="#101a35"/>
+      <stop offset="1" stop-color="#09111e"/>
+    </linearGradient>
+    <linearGradient id="board" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f8f76"/>
+      <stop offset="1" stop-color="#075643"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#57e6c2"/>
+      <stop offset="1" stop-color="#6aa5ff"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="440" rx="30" fill="url(#bg)"/>
+  <circle cx="1050" cy="64" r="170" fill="#213866" opacity="0.26"/>
+  <circle cx="130" cy="390" r="150" fill="#087a68" opacity="0.18"/>
+  <text x="600" y="66" text-anchor="middle" fill="#f6f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">ROG FLOW X13 · 2230 → 2280 NVMe</text>
+  <text x="600" y="101" text-anchor="middle" fill="#9db0d4" font-family="Segoe UI, Arial, sans-serif" font-size="16">Dual-board adapter · Hardware v6 · Manufacturing outputs included</text>
+  <g transform="translate(72 145)">
+    <rect width="250" height="168" rx="20" fill="#101a2a" stroke="#3a4d70" stroke-width="2"/>
+    <text x="125" y="34" text-anchor="middle" fill="#aebfe1" font-family="Segoe UI, Arial, sans-serif" font-size="14">HOST</text>
+    <rect x="54" y="56" width="142" height="72" rx="14" fill="#1b273a" stroke="#6aa5ff" stroke-width="2"/>
+    <rect x="78" y="78" width="94" height="27" rx="5" fill="#0e1726"/>
+    <circle cx="184" cy="92" r="5" fill="#6aa5ff"/>
+    <text x="125" y="151" text-anchor="middle" fill="#f3f6ff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">2230 M.2 slot</text>
+  </g>
+  <g transform="translate(380 145)">
+    <rect width="150" height="168" rx="20" fill="url(#board)" stroke="#57e6c2" stroke-width="2"/>
+    <text x="75" y="34" text-anchor="middle" fill="#d8fff5" font-family="Segoe UI, Arial, sans-serif" font-size="14">TX BOARD</text>
+    <rect x="26" y="56" width="98" height="68" rx="8" fill="#07392e" stroke="#a4f4df"/>
+    <g fill="#d9bc61"><rect x="35" y="65" width="7" height="50"/><rect x="48" y="65" width="7" height="50"/><rect x="61" y="65" width="7" height="50"/><rect x="74" y="65" width="7" height="50"/><rect x="87" y="65" width="7" height="50"/><rect x="100" y="65" width="7" height="50"/></g>
+    <text x="75" y="151" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Transmitter</text>
+  </g>
+  <g transform="translate(670 145)">
+    <rect width="150" height="168" rx="20" fill="url(#board)" stroke="#57e6c2" stroke-width="2"/>
+    <text x="75" y="34" text-anchor="middle" fill="#d8fff5" font-family="Segoe UI, Arial, sans-serif" font-size="14">RX BOARD</text>
+    <rect x="26" y="56" width="98" height="68" rx="8" fill="#07392e" stroke="#a4f4df"/>
+    <g fill="#d9bc61"><rect x="35" y="65" width="7" height="50"/><rect x="48" y="65" width="7" height="50"/><rect x="61" y="65" width="7" height="50"/><rect x="74" y="65" width="7" height="50"/><rect x="87" y="65" width="7" height="50"/><rect x="100" y="65" width="7" height="50"/></g>
+    <text x="75" y="151" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Receiver</text>
+  </g>
+  <g transform="translate(878 145)">
+    <rect width="250" height="168" rx="20" fill="#101a2a" stroke="#3a4d70" stroke-width="2"/>
+    <text x="125" y="34" text-anchor="middle" fill="#aebfe1" font-family="Segoe UI, Arial, sans-serif" font-size="14">STORAGE</text>
+    <rect x="38" y="56" width="174" height="72" rx="10" fill="#152a24" stroke="#57e6c2" stroke-width="2"/>
+    <rect x="55" y="70" width="112" height="44" rx="5" fill="#0c1715"/>
+    <circle cx="196" cy="92" r="6" fill="#d9bc61"/>
+    <text x="125" y="151" text-anchor="middle" fill="#f3f6ff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">2280 NVMe SSD</text>
+  </g>
+  <g stroke="url(#accent)" stroke-width="5" fill="none" filter="url(#glow)">
+    <path d="M322 229 H380"/><path d="M530 218 C578 178 622 178 670 218"/><path d="M530 241 C578 281 622 281 670 241"/><path d="M820 229 H878"/>
+  </g>
+  <g fill="#91a7cf" font-family="Segoe UI, Arial, sans-serif" font-size="13"><text x="600" y="172" text-anchor="middle">13-pin FPC</text><text x="600" y="300" text-anchor="middle">20-pin FPC</text></g>
+  <g transform="translate(372 362)">
+    <rect width="456" height="44" rx="22" fill="#111d31" stroke="#334765"/>
+    <text x="228" y="28" text-anchor="middle" fill="#c5d3ee" font-family="Segoe UI, Arial, sans-serif" font-size="14">SOURCE · GERBER · DRILL · 3D PACKAGES · HISTORICAL GUIDE</text>
+  </g>
+</svg>
+
